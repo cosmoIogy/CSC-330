@@ -16,7 +16,7 @@ public class Main {
                 numbers.add(Character.getNumericValue(c));
             }
         }
-
+        
         // Print the list of numbers
         System.out.print("Your numbers are: [");
         for (int i = 0; i < numbers.size(); i++) {
