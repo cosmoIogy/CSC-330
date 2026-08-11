@@ -1,3 +1,0 @@
-Data type examples:
-class, enum, interface, struct, records, tuples
-
